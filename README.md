@@ -81,19 +81,4 @@ This helps simulate real-world security where regular users can’t modify data.
 - Implement login system using PHP/Python
 - Generate PDF reports for borrowing history
 
----
-
-## 📌 Author
-
-**Arjav Singhai**  
-Final Year B.Tech CSE Student  
-[LinkedIn Profile](#) *(Add yours)*  
-Email: *yourname@example.com*
-
----
-
-## 📄 License
-
-This project is open source and free to use for learning purposes.
-
 
