@@ -18,7 +18,6 @@ A simple SQL project to manage a library’s books, authors, members, and borrow
 ## 🛠️ Technologies Used
 
 - 💾 **MySQL** – Database engine
-- 🖥️ **XAMPP/phpMyAdmin** (or MySQL CLI) – Query execution
 - 🧱 SQL operations – DDL, DML, Joins, Aggregates
 
 ---
@@ -36,7 +35,7 @@ A simple SQL project to manage a library’s books, authors, members, and borrow
 
 ## ⚙️ How to Run
 
-1. Open MySQL or phpMyAdmin.
+1. Open MySQL.
 2. Run the full SQL script in this repo (`librarymanagement.sql`).
 3. Execute the queries listed in `queries.sql` to explore data.
 
